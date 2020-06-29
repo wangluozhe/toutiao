@@ -1,6 +1,9 @@
 # 前言
 任何爬虫工程师在爬取网站数据之前都会对网站进行分析，并且进行==逆向(js)破解(加密)==，所以我们在爬取今日头条的文章和视频数据之前，我们也需要先分析一下今日头条的反爬虫机制以及进行==逆向(js)破解(加密)==。
 
+# 最新版本
+[Python3爬取今日头条文章视频数据，完美解决as、cp、_signature的加密方法(2020-6-29版)](https://blog.csdn.net/qq_42279077/article/details/106961482)
+
 # 分析今日头条
 今日头条某用户的链接：==https://www.toutiao.com/c/user/3410443345/#mid=3413306633==
 ![今日头条某用户链接](https://img-blog.csdnimg.cn/20191101152616547.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyMjc5MDc3,size_16,color_FFFFFF,t_70)
